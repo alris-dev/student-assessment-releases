@@ -1,2 +1,2 @@
 # student-assessment-releases
-releases for apk
+releases for apk to download
